@@ -1,4 +1,6 @@
-import geb.Page;
+package pages
+
+import geb.Page
 
 class GoogleHomePage extends Page {
 	
@@ -13,7 +15,7 @@ class GoogleHomePage extends Page {
 		searchButton { $('button', name: 'btnG') }
 	}
 
-	void searchFor(String searchTerm) {
+	def searchFor(searchTerm) {
 		searchInput.value(searchTerm)
 		searchButton.click()
 	}
