@@ -14,7 +14,9 @@
 	    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	
 	    <tagArg>~@ignore</tagArg>
-	    <format>pretty</format>
+	    <!-- <format>pretty</format> -->
+		<!-- <format>junit:build/cucumber.xml</format> -->
+		<format>html:reports</format>
 	
 	    <cucumber-jvm.version>1.1.4</cucumber-jvm.version>
 	    <cucumber-html.version>0.2.3</cucumber-html.version>
