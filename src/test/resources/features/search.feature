@@ -4,14 +4,14 @@ As a Cucumber instructor
 I want to walk through a simple google search.
 
 @wikipedia
-Scenario: Show you how to search on google
+Scenario: Show you how to search Wikipedia on google
 Given I am on the Google search page
 When I search for "Wikipedia"
 Then I should see the results page
 And The first link should be "Wikipedia"
 
 @youtube
-Scenario: Show you how to search on google
+Scenario: Show you how to search Youtube on google
 Given I am on the Google search page
 When I search for "YouTube"
 Then I should see the results page
