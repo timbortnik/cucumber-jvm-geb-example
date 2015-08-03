@@ -14,3 +14,6 @@ mvn clean test package
 
 To run a subset of the scenarios in the project: 
 mvn clean test package -DtagArg="@myTag"
+
+--
+For best experience with windows shell, use ANSICON http://adoxa.altervista.org/ansicon console
