@@ -158,7 +158,7 @@
 	                    	<classpathScope>test</classpathScope>
 	                        <mainClass>cucumber.api.cli.Main</mainClass>
 	                        <arguments>
-	                        	<argument>--format</argument>
+	                        	<argument>--plugin</argument>
 	                            <argument>${format}</argument>
 	                            <argument>--strict</argument>
 	                            <argument>--glue</argument>
