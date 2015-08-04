@@ -24,6 +24,6 @@ Then(~'I should see the results page') { ->
 
 Then(~'The first link should be "(.+)"') { searchTerm ->
 
-	page.assertResultIs(1, searchTerm)
+	page.assertResultIs(searchTerm)
 
 }

@@ -10,10 +10,8 @@ class GoogleResultsPage extends Page {
 		}
 	}
 	
-	void assertResultIs(def index, def title) {
-		//Thread.sleep(600000);
-		//Thread.sleep(1000);
-		assert $('div#ires h3.r').text() == title
+	void assertResultIs( def title) {
+		assert $('div#ires h3.r', 0).text() == title
 	}
 	
 }

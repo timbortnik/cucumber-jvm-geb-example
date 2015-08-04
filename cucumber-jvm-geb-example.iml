@@ -18,10 +18,10 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="library" name="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER" level="application" />
-    <orderEntry type="library" scope="TEST" name="Maven: info.cukes:cucumber-groovy:1.1.4" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: info.cukes:cucumber-core:1.1.4" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: info.cukes:cucumber-jvm-deps:1.0.3" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: info.cukes:cucumber-junit:1.1.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: info.cukes:cucumber-groovy:1.2.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: info.cukes:cucumber-core:1.2.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: info.cukes:cucumber-jvm-deps:1.0.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: info.cukes:cucumber-junit:1.2.4" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: info.cukes:cucumber-html:0.2.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: info.cukes:gherkin:2.12.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.12" level="project" />
@@ -78,9 +78,10 @@
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-leg-rc:2.47.1" level="project" />
     <orderEntry type="library" name="Maven: org.yaml:snakeyaml:1.8" level="project" />
     <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.10" level="project" />
-    <orderEntry type="library" name="Maven: org.gebish:geb-core:0.10.0" level="project" />
-    <orderEntry type="library" name="Maven: org.gebish:geb-ast:0.10.0" level="project" />
-    <orderEntry type="library" name="Maven: org.gebish:geb-waiting:0.10.0" level="project" />
-    <orderEntry type="library" name="Maven: org.gebish:geb-implicit-assertions:0.10.0" level="project" />
+    <orderEntry type="library" name="Maven: org.gebish:geb-core:0.12.1" level="project" />
+    <orderEntry type="library" name="Maven: org.gebish:geb-ast:0.12.1" level="project" />
+    <orderEntry type="library" name="Maven: org.gebish:geb-waiting:0.12.1" level="project" />
+    <orderEntry type="library" name="Maven: org.gebish:geb-exceptions:0.12.1" level="project" />
+    <orderEntry type="library" name="Maven: org.gebish:geb-implicit-assertions:0.12.1" level="project" />
   </component>
 </module>
